@@ -135,9 +135,9 @@
       { "cl": 1.5,
         "ingredient": "Vodka" },
       { "cl": 1.5,
-        "ingredient": "White Rum" },
+        "ingredient": "White rum" },
       { "cl": 1.5,
-        "ingredient": "Triple sec" },
+        "ingredient": "Triple Sec" },
       { "cl": 1.5,
         "ingredient": "Gin" },
       { "cl": 2.5,
@@ -155,7 +155,7 @@
       { "cl": 1.5,
         "ingredient": "Raspberry syrup" },
       { "cl": 1.5,
-        "ingredient": "Fresh lemon Juice" },
+        "ingredient": "Fresh lemon juice" },
       { "special": "Few drops of Egg White" }
     ],
     "preparation": "Pour all ingredients into cocktail shaker filled with ice. Shake well. Strain into cocktail glass." },
@@ -203,7 +203,7 @@
     "category": "Longdrink",
     "ingredients": [
       { "cl": 5,
-        "ingredient": "White Rum" },
+        "ingredient": "White rum" },
       { "cl": 12,
         "ingredient": "Cola" },
       { "cl": 1,
@@ -282,11 +282,11 @@
     "category": "All Day Cocktail",
     "ingredients": [
       { "cl": 3,
-        "ingredient": "White Rum" },
+        "ingredient": "White rum" },
       { "cl": 1.5,
         "ingredient": "Galliano" },
       { "cl": 1.5,
-        "ingredient": "Triple sec" },
+        "ingredient": "Triple Sec" },
       { "cl": 1.5,
         "ingredient": "Lime juice" }
     ],
@@ -295,7 +295,7 @@
     "category": "Longdrink",
     "ingredients": [
       { "cl": 3,
-        "ingredient": "White Rum" },
+        "ingredient": "White rum" },
       { "cl": 9,
         "ingredient": "Pineapple juice" },
       { "cl": 3,
@@ -326,9 +326,9 @@
     "category": "After Dinner Cocktail",
     "ingredients": [
       { "cl": 3,
-        "ingredient": "Créme de cacao (white)" },
+        "ingredient": "Créme de Cacao (white)" },
       { "cl": 3,
-        "ingredient": "Créme de menthe (green)" },
+        "ingredient": "Créme de Menthe (green)" },
       { "cl": 3,
         "ingredient": "Fresh cream" }
     ],
@@ -368,13 +368,13 @@
     "category": "After Dinner",
     "ingredients": [
       { "cl": 2,
-        "ingredient": "Kahlua" },
+        "ingredient": "Kahlúa" },
       { "cl": 2,
         "ingredient": "Bailey's Irish Cream" },
       { "cl": 2,
         "ingredient": "Grand Marnier" }
     ],
-    "preparation": "Layer ingredients one at a time starting with Kahlua, followed by Bailey's Irish Cream and top with Grand Marnier. Flame the Grand Marnier, serve while the flame is still on, accompanied with a straw on side plate." },
+    "preparation": "Layer ingredients one at a time starting with Kahlúa, followed by Bailey's Irish Cream and top with Grand Marnier. Flame the Grand Marnier, serve while the flame is still on, accompanied with a straw on side plate." },
   { "name": "Stinger",
     "category": "After Dinner Cocktail",
     "ingredients": [
@@ -390,9 +390,9 @@
       { "cl": 2,
         "ingredient": "Galliano" },
       { "cl": 2,
-        "ingredient": "Triple sec" },
+        "ingredient": "Triple Sec" },
       { "cl": 2,
-        "ingredient": "Fresh Orange juice" },
+        "ingredient": "Fresh orange juice" },
       { "cl": 1,
         "ingredient": "Fresh cream" }
     ],
@@ -421,7 +421,7 @@
       { "cl": 4,
         "ingredient": "Gin" },
       { "cl": 1.5,
-        "ingredient": "Fresh Lemon Juice" },
+        "ingredient": "Fresh lemon juice" },
       { "cl": 1,
         "ingredient": "Sugar syrup" },
       { "cl": 1.5,
@@ -488,9 +488,9 @@
     "category": "Longdrink",
     "ingredients": [
       { "cl": 4,
-        "ingredient": "White Rum" },
+        "ingredient": "White rum" },
       { "cl": 2,
-        "ingredient": "Dark Rum" },
+        "ingredient": "Dark rum" },
       { "cl": 1.5,
         "ingredient": "Orange Curaćao" },
       { "cl": 1.5,
@@ -559,7 +559,7 @@
     "category": "Hot Drink",
     "ingredients": [
       { "cl": 4,
-        "ingredient": "Irish whiskey" },
+        "ingredient": "Irish Whiskey" },
       { "cl": 9,
         "ingredient": "Hot coffee" },
       { "cl": 3,
@@ -654,7 +654,7 @@
     "category": "Longdrink",
     "ingredients": [
       { "cl": 6,
-        "ingredient": "Bourbon whiskey" },
+        "ingredient": "Bourbon Whiskey" },
       { "special": "4 fresh mint sprigs" },
       { "special": "1 teaspoon powdered sugar" },
       { "special": "2 teaspoons water" }
@@ -676,7 +676,7 @@
       { "cl": 3.5,
         "ingredient": "Gin" },
       { "cl": 2,
-        "ingredient": "Apricot Brandy" },
+        "ingredient": "Apricot brandy" },
       { "cl": 1.5,
         "ingredient": "Orange juice" }
     ],
@@ -707,20 +707,20 @@
     "category": "All Day Cocktail",
     "ingredients": [
       { "cl": 6,
-        "ingredient": "White Rum" },
+        "ingredient": "White rum" },
       { "cl": 1,
         "ingredient": "Maraschino" },
       { "cl": 6,
         "ingredient": "Fresh pineapple juice" },
       { "cl": 1,
-        "ingredient": "Grenadine syrup" }
+        "ingredient": "Grenadine" }
     ],
     "preparation": "Shake and strain into a chilled large cocktail glass." },
   { "name": "Hemingway Special",
     "category": "All Day Cocktail",
     "ingredients": [
       { "cl": 6,
-        "ingredient": "White Rum" },
+        "ingredient": "White rum" },
       { "cl": 4,
         "ingredient": "Grapefruit juice" },
       { "cl": 1.5,
@@ -733,9 +733,9 @@
     "category": "Longdrink",
     "ingredients": [
       { "cl": 6,
-        "ingredient": "Dark Rum" },
+        "ingredient": "Dark rum" },
       { "cl": 10,
-        "ingredient": "Ginger Beer" }
+        "ingredient": "Ginger beer" }
     ],
     "preparation": "In a highball glass filled with ice add 6cl Dark Rum and top with ginger beer. Garnish with lime wedge." },
   { "name": "Ramos Fizz",
@@ -763,11 +763,11 @@
       { "cl": 2.5,
         "ingredient": "Vodka" },
       { "cl": 2.5,
-        "ingredient": "Lemon Juice, fresh" },
+        "ingredient": "Fresh lemon juice" },
       { "cl": 1.5,
         "ingredient": "Créme de Cassis" },
       { "cl": 1,
-        "ingredient": "Sugar Syrup" }
+        "ingredient": "Sugar syrup" }
     ],
     "preparation": "Shake the ingredients and pour into highball glass. Top with Sparkling wine. Garnish with a lemon slice and a blackberry." },
   { "name": "God Father",
@@ -804,7 +804,7 @@
     "category": "All Day Cocktail",
     "ingredients": [
       { "cl": 3,
-        "ingredient": "White Rum" },
+        "ingredient": "White rum" },
       { "cl": 3,
         "ingredient": "Cognac" },
       { "cl": 3,
@@ -842,7 +842,7 @@
       { "cl": 7,
         "ingredient": "Tomato juice" },
       { "cl": 3,
-        "ingredient": "Orange Juice, fresh" },
+        "ingredient": "Orange juice, fresh" },
       { "cl": 1,
         "ingredient": "Lime juice, fresh" },
       { "special": "1 teaspoon clear honey" },
@@ -858,7 +858,7 @@
       { "cl": 3,
         "ingredient": "Vodka" },
       { "cl": 3,
-        "ingredient": "Triple sec" },
+        "ingredient": "Triple Sec" },
       { "cl": 3,
         "ingredient": "Fresh lime juice" }
     ],
