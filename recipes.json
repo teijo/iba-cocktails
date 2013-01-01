@@ -325,11 +325,11 @@
   { "name": "GRASSHOPPER",
     "category": "After Dinner Cocktail",
     "ingredients": [
-      { "cl": "3 cl",
+      { "cl": 3,
         "ingredient": "Créme de cacao (white)" },
-      { "cl": "3 cl",
+      { "cl": 3,
         "ingredient": "Créme de menthe (green)" },
-      { "cl": "3 cl",
+      { "cl": 3,
         "ingredient": "Fresh cream" }
     ],
     "preparation": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass." },
@@ -829,7 +829,7 @@
   { "name": "CAIPIRINHA",
     "category": "All Day Cocktail",
     "ingredients": [
-      { "cl": "5 cl",
+      { "cl": 5,
         "ingredient": "Cachaca" },
       { "special": "half fresh lime cut into 4 wedges " },
       { "special": "2 teaspoon sugar" }
