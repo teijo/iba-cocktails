@@ -51,7 +51,7 @@
       { "special": "1 sugar cube" },
       { "special": "Few dashes plain water" }
     ],
-    "preparation": "Place sugar cube in old-fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolve.  Fill the glass with ice cubes and add whisky.  Garnish with orange slice and a cocktail cherry." },
+    "preparation": "Place sugar cube in old-fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolve. Fill the glass with ice cubes and add whisky. Garnish with orange slice and a cocktail cherry." },
   { "name": "TUXEDO",
     "category": "All Day Cocktail",
     "ingredients": [
@@ -219,7 +219,7 @@
         "ingredient": "Red Vermouth" },
       { "special": "1 dash Angostura Bitters" }
     ],
-    "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.  Garnish with cocktail cherry." },
+    "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass. Garnish with cocktail cherry." },
   { "name": "PORTO FLIP",
     "category": "After Dinner Cocktail",
     "ingredients": [
@@ -277,7 +277,7 @@
       { "cl": 6,
         "ingredient": "Champagne" }
     ],
-    "preparation": "Pour all the ingredients, except champagne, into a shaker. Shake. Strain into a champagne flute.  Top up with champagne. Stir gently." },
+    "preparation": "Pour all the ingredients, except champagne, into a shaker. Shake. Strain into a champagne flute. Top up with champagne. Stir gently." },
   { "name": "YELLOW BIRD",
     "category": "All Day Cocktail",
     "ingredients": [
@@ -442,7 +442,7 @@
     "category": "All Day Cocktail",
     "ingredients": [
       { "cl": 2.5,
-        "ingredient": " Vodka Citron" },
+        "ingredient": "Vodka Citron" },
       { "cl": 2,
         "ingredient": "Triple Sec" },
       { "cl": 1.5,
@@ -543,7 +543,7 @@
       { "special": "2 Drops Peach Bitters" },
       { "special": "2 Fresh mint leafs" }
     ],
-    "preparation": "Pour all ingredients into a mixing glass with ice. Stir.  Strain into a cocktail glass.  Garnish with a fresh mint leaves in the drink." },
+    "preparation": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a fresh mint leaves in the drink." },
   { "name": "SIDECAR",
     "category": "All Day Cocktail",
     "ingredients": [
@@ -577,7 +577,7 @@
       { "special": "1 sugar cube" },
       { "special": "2 dashes Peychaud’s bitters" }
     ],
-    "preparation": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside.  Stir the remaining ingredients over ice and set it aside.  Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the Lemon peel for garnish. Note: The original recipe changed after the American Civil War, rye whiskey substituted cognac as it became hard to obtain." },
+    "preparation": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the Lemon peel for garnish. Note: The original recipe changed after the American Civil War, rye whiskey substituted cognac as it became hard to obtain." },
   { "name": "AMERICANO",
     "category": "Before Dinner Cocktail",
     "ingredients": [
@@ -627,7 +627,7 @@
         "ingredient": "Lime juice, fresh" },
       { "special": "1 slice lime in a highball glass" }
     ],
-    "preparation": "Combine the vodka and ginger beer. Add lime juice.  Garnish with a lime slice." },
+    "preparation": "Combine the vodka and ginger beer. Add lime juice. Garnish with a lime slice." },
   { "name": "JOHN COLLINS",
     "category": "Longdrink",
     "ingredients": [
@@ -782,7 +782,7 @@
     "category": "All Day Cocktail",
     "ingredients": [
       { "cl": 4,
-        "ingredient": "Citron Vodka " },
+        "ingredient": "Citron Vodka" },
       { "cl": 1.5,
         "ingredient": "Cointreau" },
       { "cl": 1.5,
@@ -831,7 +831,7 @@
     "ingredients": [
       { "cl": 5,
         "ingredient": "Cachaca" },
-      { "special": "half fresh lime cut into 4 wedges " },
+      { "special": "half fresh lime cut into 4 wedges" },
       { "special": "2 teaspoon sugar" }
     ],
     "preparation": "Place lime and suger in old fashion glass and muddle. Fill glass with ice and Cachaca (note:Caipiroska- use Vodka instead of Cachaca)." },
