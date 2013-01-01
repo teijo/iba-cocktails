@@ -251,7 +251,7 @@
         "ingredient": "Vodka" },
       { "cl": 1,
         "ingredient": "Kahlúa" },
-      { "special": "Sugar syrup (according to individual preference of sweetness)" },
+      { "special": "Sugar syrup (according to individual preference of sweetness)" },
       { "special": "1 short strong Espresso" }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass." },
@@ -397,7 +397,7 @@
         "ingredient": "Fresh cream" }
     ],
     "preparation": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass." },
-  { "name": "GOD MOTHER",
+  { "name": "GOD MOTHER",
     "ingredients": [
       { "cl": 3.5,
         "ingredient": "Vodka" },
@@ -427,7 +427,7 @@
       { "cl": 1.5,
         "ingredient": "Blackberry liqueur" }
     ],
-    "preparation": "Build over crushed ice, in a rock glass. Stir, then pour the blackberry liqueur over the top of the drink in a circular fashion. Garnish with a lemon slice, and two blackberries." },
+    "preparation": "Build over crushed ice, in a rock glass. Stir, then pour the blackberry liqueur over the top of the drink in a circular fashion. Garnish with a lemon slice, and two blackberries." },
   { "name": "ALEXANDER",
     "ingredients": [
       { "cl": 3,
@@ -566,7 +566,7 @@
         "ingredient": "Fresh cream" },
       { "special": "1 teaspoon of brown sugar" }
     ],
-    "preparation": "Warm the Irish whiskey over a burner. Pour into the glass (for hot drink) hot coffee, and add a teaspoon of sugar. Float Cream on top." },
+    "preparation": "Warm the Irish whiskey over a burner. Pour into the glass (for hot drink) hot coffee, and add a teaspoon of sugar. Float Cream on top." },
   { "name": "SAZERAC",
     "category": "After Dinner Cocktail",
     "ingredients": [
@@ -715,7 +715,7 @@
       { "cl": 1,
         "ingredient": "Grenadine syrup" }
     ],
-    "preparation": "Shake and strain into a chilled large cocktail glass." },
+    "preparation": "Shake and strain into a chilled large cocktail glass." },
   { "name": "HEMINGWAY SPECIAL",
     "category": "All Day Cocktail",
     "ingredients": [
@@ -737,7 +737,7 @@
       { "cl": 10,
         "ingredient": "Ginger Beer" }
     ],
-    "preparation": "In a highball glass filled with ice add 6cl Dark Rum and top with ginger beer. Garnish with lime wedge." },
+    "preparation": "In a highball glass filled with ice add 6cl Dark Rum and top with ginger beer. Garnish with lime wedge." },
   { "name": "RAMOS FIZZ",
     "category": "Longdrink",
     "ingredients": [
@@ -782,11 +782,11 @@
     "category": "All Day Cocktail",
     "ingredients": [
       { "cl": 4,
-        "ingredient": "Citron Vodka " },
+        "ingredient": "Citron Vodka " },
       { "cl": 1.5,
         "ingredient": "Cointreau" },
       { "cl": 1.5,
-        "ingredient": "Fresh lime juice" },
+        "ingredient": "Fresh lime juice" },
       { "cl": 3,
         "ingredient": "Cranberry juice" }
     ],
@@ -799,7 +799,7 @@
       { "cl": 1,
         "ingredient": "Dry Vermouth" }
     ],
-    "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini glass. Squeeze oil from lemon peel onto the drink, or garnish with olive." },
+    "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini glass. Squeeze oil from lemon peel onto the drink, or garnish with olive." },
   { "name": "BETWEEN THE SHEETS",
     "category": "All Day Cocktail",
     "ingredients": [
@@ -831,7 +831,7 @@
     "ingredients": [
       { "cl": 5,
         "ingredient": "Cachaca" },
-      { "special": "half fresh lime cut into 4 wedges " },
+      { "special": "half fresh lime cut into 4 wedges " },
       { "special": "2 teaspoon sugar" }
     ],
     "preparation": "Place lime and suger in old fashion glass and muddle. Fill glass with ice and Cachaca (note:Caipiroska- use Vodka instead of Cachaca)." },
