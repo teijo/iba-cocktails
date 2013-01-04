@@ -17,7 +17,7 @@
       { "cl": 4.5,
         "ingredient": "Bacardi Rum White" },
       { "cl": 2,
-        "ingredient": "Fresh lime juice" },
+        "ingredient": "Lime juice" },
       { "cl": 1,
         "ingredient": "Grenadine" }
     ],
@@ -70,7 +70,7 @@
       { "cl": 4,
         "ingredient": "White Cuban Rum" },
       { "cl": 3,
-        "ingredient": "Fresh lime juice" },
+        "ingredient": "Lime juice" },
       { "special": "6 Mint sprigs" },
       { "special": "2 teaspoons white sugar" },
       { "special": "Soda water" }
@@ -92,11 +92,11 @@
       { "cl": 4.5,
         "ingredient": "Dark rum" },
       { "cl": 3.5,
-        "ingredient": "Fresh orange juice" },
+        "ingredient": "Orange juice" },
       { "cl": 3.5,
-        "ingredient": "Fresh pineapple juice" },
+        "ingredient": "Pineapple juice" },
       { "cl": 2,
-        "ingredient": "Fresh lemon juice" },
+        "ingredient": "Lemon juice" },
       { "cl": 1,
         "ingredient": "Grenadine" },
       { "cl": 1,
@@ -121,7 +121,7 @@
       { "cl": 4.5,
         "ingredient": "Pisco" },
       { "cl": 3,
-        "ingredient": "Fresh lemon juice" },
+        "ingredient": "Lemon juice" },
       { "cl": 2,
         "ingredient": "Sugar syrup" },
       { "special": "1 raw egg white (small egg)" }
@@ -141,7 +141,7 @@
       { "cl": 1.5,
         "ingredient": "Gin" },
       { "cl": 2.5,
-        "ingredient": "Lemon juice, fresh" },
+        "ingredient": "Lemon juice" },
       { "cl": 3.0,
         "ingredient": "Gomme syrup" },
       { "special": "1 dash of Cola" }
@@ -155,7 +155,7 @@
       { "cl": 1.5,
         "ingredient": "Raspberry syrup" },
       { "cl": 1.5,
-        "ingredient": "Fresh lemon juice" },
+        "ingredient": "Lemon juice" },
       { "special": "Few drops of Egg White" }
     ],
     "preparation": "Pour all ingredients into cocktail shaker filled with ice. Shake well. Strain into cocktail glass." },
@@ -176,7 +176,7 @@
       { "cl": 7.5,
         "ingredient": "Champagne" },
       { "cl": 7.5,
-        "ingredient": "Orange juice, fresh" }
+        "ingredient": "Orange juice" }
     ],
     "preparation": "Pour orange juice into flute and gently pour Champagne. Stir gently. Garnish with orange twist (optional). Note: a Buck’s Fizz and a Mimosa are the same drink." },
   { "name": "Whiskey Sour",
@@ -185,7 +185,7 @@
       { "cl": 4.5,
         "ingredient": "Bourbon Whiskey" },
       { "cl": 3.0,
-        "ingredient": "Fresh lemon juice" },
+        "ingredient": "Lemon juice" },
       { "cl": 1.5,
         "ingredient": "Sugar syrup" }
     ],
@@ -207,7 +207,7 @@
       { "cl": 12,
         "ingredient": "Cola" },
       { "cl": 1,
-        "ingredient": "Fresh lime juice" }
+        "ingredient": "Lime juice" }
     ],
     "preparation": "Build all ingredients in a highball glass filled with ice. Garnish with lime wedge." },
   { "name": "Manhattan",
@@ -237,7 +237,7 @@
       { "cl": 4.5,
         "ingredient": "Gin" },
       { "cl": 3,
-        "ingredient": "Fresh lemon juice" },
+        "ingredient": "Lemon juice" },
       { "cl": 1,
         "ingredient": "Sugar syrup" },
       { "cl": 8,
@@ -263,7 +263,7 @@
       { "cl": 2,
         "ingredient": "Cointreau" },
       { "cl": 1.5,
-        "ingredient": "Freshly squeezed lime juice" }
+        "ingredient": "Lime juice" }
     ],
     "preparation": "Pour all ingredients into shaker with ice. Shake well and strain into cocktail glass rimmed with salt (note:Fruit Margarita - blend selected fruit with the above recipe)." },
   { "name": "French 75",
@@ -272,7 +272,7 @@
       { "cl": 3,
         "ingredient": "Gin" },
       { "cl": 1.5,
-        "ingredient": "Fresh lemon juice" },
+        "ingredient": "Lemon juice" },
       { "special": "2 dashes Sugar syrup" },
       { "cl": 6,
         "ingredient": "Champagne" }
@@ -310,7 +310,7 @@
       { "cl": 1.5,
         "ingredient": "Maraschino" },
       { "cl": 1.5,
-        "ingredient": "Fresh lemon juice" }
+        "ingredient": "Lemon juice" }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass." },
   { "name": "Bellini",
@@ -319,7 +319,7 @@
       { "cl": 10,
         "ingredient": "Prosecco" },
       { "cl": 5,
-        "ingredient": "Fresh peach puree" }
+        "ingredient": "Peach puree" }
     ],
     "preparation": "Pour peach puree into chilled glass and add sparkling wine. Stir gently. Variations: Puccini (fresh mandarin juice), Rossini (fresh strawberry puree), Tintoretto (fresh pomegranate juice)" },
   { "name": "Grasshopper",
@@ -350,7 +350,7 @@
       { "cl": 4.5,
         "ingredient": "White rum" },
       { "cl": 2.5,
-        "ingredient": "Fresh lime juice" },
+        "ingredient": "Lime juice" },
       { "cl": 1.5,
         "ingredient": "Simple syrup" }
     ],
@@ -392,7 +392,7 @@
       { "cl": 2,
         "ingredient": "Triple Sec" },
       { "cl": 2,
-        "ingredient": "Fresh orange juice" },
+        "ingredient": "Orange juice" },
       { "cl": 1,
         "ingredient": "Fresh cream" }
     ],
@@ -421,7 +421,7 @@
       { "cl": 4,
         "ingredient": "Gin" },
       { "cl": 1.5,
-        "ingredient": "Fresh lemon juice" },
+        "ingredient": "Lemon juice" },
       { "cl": 1,
         "ingredient": "Sugar syrup" },
       { "cl": 1.5,
@@ -446,7 +446,7 @@
       { "cl": 2,
         "ingredient": "Triple Sec" },
       { "cl": 1.5,
-        "ingredient": "Fresh lemon juice" }
+        "ingredient": "Lemon juice" }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass rimmed with sugar, garnish with a slice of lemon." },
   { "name": "French Martini",
@@ -457,7 +457,7 @@
       { "cl": 1.5,
         "ingredient": "Raspberry liqueur" },
       { "cl": 1.5,
-        "ingredient": "Fresh pineapple juice" }
+        "ingredient": "Pineapple juice" }
     ],
     "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled cocktail glass. Squeeze oil from lemon peel onto the drink." },
   { "name": "Black Russian",
@@ -496,7 +496,7 @@
       { "cl": 1.5,
         "ingredient": "Orgeat syrup" },
       { "cl": 1,
-        "ingredient": "Fresh lime juice" }
+        "ingredient": "Lime juice" }
     ],
     "preparation": "Shake and strain into highball glass. Garnish with pineapple spear, mint leaves and lime peel. Serve with straw." },
   { "name": "Barracuda",
@@ -508,7 +508,7 @@
         "ingredient": "Galliano" },
       { "cl": 6,
         "ingredient": "Pineapple juice" },
-      { "special": "1 dash Fresh lime juice" },
+      { "special": "1 dash Lime juice" },
       { "special": "Top with Prosecco" }
     ] },
   { "name": "Sex on the Beach",
@@ -552,7 +552,7 @@
       { "cl": 2,
         "ingredient": "Triple Sec" },
       { "cl": 2,
-        "ingredient": "Fresh lemon juice" }
+        "ingredient": "Lemon juice" }
     ],
     "preparation": "Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass." },
   { "name": "Irish Coffee",
@@ -624,7 +624,7 @@
       { "cl": 12,
         "ingredient": "Ginger beer" },
       { "cl": 0.5,
-        "ingredient": "Lime juice, fresh" },
+        "ingredient": "Lime juice" },
       { "special": "1 slice lime in a highball glass" }
     ],
     "preparation": "Combine the vodka and ginger beer. Add lime juice. Garnish with a lime slice." },
@@ -634,7 +634,7 @@
       { "cl": 4.5,
         "ingredient": "Gin" },
       { "cl": 3,
-        "ingredient": "Fresh lemon juice" },
+        "ingredient": "Lemon juice" },
       { "cl": 1.5,
         "ingredient": "Sugar syrup" },
       { "cl": 6,
@@ -666,7 +666,7 @@
       { "cl": 4.5,
         "ingredient": "Tequila" },
       { "cl": 1.5,
-        "ingredient": "Freshly squeezed lime juice" },
+        "ingredient": "Lime juice" },
       { "special": "2 bar spoons of Agave nectar" }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass." },
@@ -711,7 +711,7 @@
       { "cl": 1,
         "ingredient": "Maraschino" },
       { "cl": 6,
-        "ingredient": "Fresh pineapple juice" },
+        "ingredient": "Pineapple juice" },
       { "cl": 1,
         "ingredient": "Grenadine" }
     ],
@@ -726,7 +726,7 @@
       { "cl": 1.5,
         "ingredient": "Maraschino" },
       { "cl": 1.5,
-        "ingredient": "Fresh lime juice" }
+        "ingredient": "Lime juice" }
     ],
     "preparation": "Pour all ingredients into a shaker with ice. Shake. Strain into a double cocktail glass." },
   { "name": "Dark 'n' Stormy",
@@ -746,7 +746,7 @@
       { "cl": 1.5,
         "ingredient": "Lime juice" },
       { "cl": 1.5,
-        "ingredient": "Fresh lemon juice" },
+        "ingredient": "Lemon juice" },
       { "cl": 3,
         "ingredient": "Sugar syrup" },
       { "cl": 6,
@@ -763,7 +763,7 @@
       { "cl": 2.5,
         "ingredient": "Vodka" },
       { "cl": 2.5,
-        "ingredient": "Fresh lemon juice" },
+        "ingredient": "Lemon juice" },
       { "cl": 1.5,
         "ingredient": "Créme de Cassis" },
       { "cl": 1,
@@ -786,7 +786,7 @@
       { "cl": 1.5,
         "ingredient": "Cointreau" },
       { "cl": 1.5,
-        "ingredient": "Fresh lime juice" },
+        "ingredient": "Lime juice" },
       { "cl": 3,
         "ingredient": "Cranberry juice" }
     ],
@@ -810,7 +810,7 @@
       { "cl": 3,
         "ingredient": "Triple Sec" },
       { "cl": 2,
-        "ingredient": "Fresh lemon juice" }
+        "ingredient": "Lemon juice" }
     ],
     "preparation": "Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass." },
   { "name": "Casino",
@@ -823,7 +823,7 @@
       { "cl": 1,
         "ingredient": "Orange Bitters" },
       { "cl": 1,
-        "ingredient": "Fresh lemon juice" }
+        "ingredient": "Lemon juice" }
     ],
     "preparation": "Pour all ingredients into shaker with ice cubes, shake well, strain into chilled cocktail glass and garnish with a lemon twist and a maraschino cherry." },
   { "name": "Caipirinha",
@@ -842,9 +842,9 @@
       { "cl": 7,
         "ingredient": "Tomato juice" },
       { "cl": 3,
-        "ingredient": "Orange juice, fresh" },
+        "ingredient": "Orange juice" },
       { "cl": 1,
-        "ingredient": "Lime juice, fresh" },
+        "ingredient": "Lime juice" },
       { "special": "1 teaspoon clear honey" },
       { "special": "Half slice onion finely chopped" },
       { "special": "Few slices fresh red hot chili peppers" },
@@ -860,7 +860,7 @@
       { "cl": 3,
         "ingredient": "Triple Sec" },
       { "cl": 3,
-        "ingredient": "Fresh lime juice" }
+        "ingredient": "Lime juice" }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass." },
   { "name": "White Lady",
@@ -871,7 +871,7 @@
       { "cl": 3,
         "ingredient": "Triple Sec" },
       { "cl": 2,
-        "ingredient": "Fresh lemon juice" }
+        "ingredient": "Lemon juice" }
     ],
     "preparation": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass." },
   { "name": "Harvey Wallbanger",
