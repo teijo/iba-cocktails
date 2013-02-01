@@ -17,7 +17,8 @@
     "category": "Before Dinner Cocktail",
     "ingredients": [
       { "cl": 4.5,
-        "ingredient": "Bacardi Rum White" },
+        "ingredient": "White rum",
+        "label": "Bacardi White Rum" },
       { "cl": 2,
         "ingredient": "Lime juice" },
       { "cl": 1,
@@ -62,7 +63,8 @@
     "category": "All Day Cocktail",
     "ingredients": [
       { "cl": 3,
-        "ingredient": "Old Tom Gin" },
+        "ingredient": "Gin",
+        "label": "Old Tom Gin" },
       { "cl": 3,
         "ingredient": "Dry Vermouth" },
       { "special": "1/2 bar spoon Maraschino" },
@@ -75,7 +77,8 @@
     "category": "Longdrink",
     "ingredients": [
       { "cl": 4,
-        "ingredient": "White Cuban Rum" },
+        "ingredient": "White rum",
+        "label": "White Cuban Rum" },
       { "cl": 3,
         "ingredient": "Lime juice" },
       { "special": "6 Mint sprigs" },
@@ -538,7 +541,8 @@
       { "cl": 2,
         "ingredient": "Dark rum" },
       { "cl": 1.5,
-        "ingredient": "Orange Curaćao" },
+        "ingredient": "Triple Sec",
+        "label": "Orange Curaçao" },
       { "cl": 1.5,
         "ingredient": "Orgeat syrup" },
       { "cl": 1,
@@ -550,7 +554,8 @@
     "category": "Sparkling Cocktail",
     "ingredients": [
       { "cl": 4.5,
-        "ingredient": "Gold rum" },
+        "ingredient": "Dark rum",
+        "label": "Gold rum" },
       { "cl": 1.5,
         "ingredient": "Galliano" },
       { "cl": 6,
@@ -893,7 +898,8 @@
     "category": "All Day Cocktail",
     "ingredients": [
       { "cl": 4,
-        "ingredient": "Old Tom Gin" },
+        "ingredient": "Gin",
+        "label": "Old Tom Gin" },
       { "cl": 1,
         "ingredient": "Maraschino" },
       { "cl": 1,
@@ -916,7 +922,8 @@
     "glass": "highball",
     "ingredients": [
       { "cl": 5,
-        "ingredient": "Tequila (silver)" },
+        "ingredient": "Tequila",
+        "label": "Silver Tequila" },
       { "cl": 7,
         "ingredient": "Tomato juice" },
       { "cl": 3,
@@ -961,7 +968,7 @@
       { "cl": 4.5,
         "ingredient": "Vodka" },
       { "cl": 1.5,
-        "ingredient": "Galliano (to float on drink)" },
+        "ingredient": "Galliano" },
       { "cl": 9,
         "ingredient": "Orange juice" }
     ],
