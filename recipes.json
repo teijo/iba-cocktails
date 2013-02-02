@@ -367,9 +367,11 @@
     "category": "After Dinner Cocktail",
     "ingredients": [
       { "cl": 3,
-        "ingredient": "Créme de Cacao (white)" },
+        "ingredient": "Créme liqueur",
+        "label": "White Créme de Cacao" },
       { "cl": 3,
-        "ingredient": "Créme de Menthe (green)" },
+        "ingredient": "Créme liqueur",
+        "label": "Green Créme de Menthe" },
       { "cl": 3,
         "ingredient": "Fresh cream" }
     ],
@@ -431,7 +433,8 @@
       { "cl": 5,
         "ingredient": "Cognac" },
       { "cl": 2,
-        "ingredient": "Créme de Menthe (white)" }
+        "ingredient": "Créme liqueur",
+        "label": "White Créme de Menthe" }
     ],
     "preparation": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass." },
   { "name": "Golden Dream",
@@ -488,7 +491,8 @@
       { "cl": 3,
         "ingredient": "Cognac" },
       { "cl": 3,
-        "ingredient": "Créme de Cacao (brown)" },
+        "ingredient": "Créme liqueur",
+        "label": "Brown Créme de Cacao" },
       { "cl": 3,
         "ingredient": "Fresh cream" }
     ],
@@ -725,7 +729,8 @@
       { "cl": 9,
         "ingredient": "Dry White Wine" },
       { "cl": 1,
-        "ingredient": "Créme de Cassis" }
+        "ingredient": "Créme liqueur",
+        "label": "Créme de Cassis" }
     ],
     "preparation": "Pour Créme de Cassis into glass, top up with white wine. For Kir Royal: Use champagne instead of white wine." },
   { "name": "Mint Julep",
@@ -855,7 +860,8 @@
       { "cl": 2.5,
         "ingredient": "Lemon juice" },
       { "cl": 1.5,
-        "ingredient": "Créme de Cassis" },
+        "ingredient": "Créme liqueur",
+        "label": "Créme de Cassis" },
       { "cl": 1,
         "ingredient": "Sugar syrup" }
     ],
