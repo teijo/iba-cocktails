@@ -34,7 +34,8 @@
       { "cl": 3,
         "ingredient": "Campari" },
       { "cl": 3,
-        "ingredient": "Sweet Red Vermouth" }
+        "ingredient": "Vermouth",
+        "label": "Sweet red vermouth" }
     ],
     "preparation": "Pour all ingredients directly into old-fashioned glass filled with ice. Stir gently. Garnish with half orange slice." },
   { "name": "Rose",
@@ -43,7 +44,8 @@
       { "cl": 2,
         "ingredient": "Kirsch" },
       { "cl": 4,
-        "ingredient": "Dry Vermouth" },
+        "ingredient": "Vermouth",
+        "label": "Dry vermouth" },
       { "special": "3 dashes Strawberry syrup" }
     ],
     "preparation": "Stir all ingredients with ice and strain into a cocktail glass." },
@@ -67,7 +69,8 @@
         "ingredient": "Gin",
         "label": "Old Tom Gin" },
       { "cl": 3,
-        "ingredient": "Dry Vermouth" },
+        "ingredient": "Vermouth",
+        "label": "Dry vermouth" },
       { "special": "1/2 bar spoon Maraschino" },
       { "special": "1/4 bar spoon Absinthe" },
       { "special": "3 dashes Orange Bitters" }
@@ -241,7 +244,8 @@
         "ingredient": "Whiskey",
         "label": "Rye whiskey" },
       { "cl": 2,
-        "ingredient": "Red Vermouth" },
+        "ingredient": "Vermouth",
+        "label": "Red vermouth" },
       { "special": "1 dash Angostura Bitters" }
     ],
     "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass. Garnish with cocktail cherry." },
@@ -651,7 +655,8 @@
       { "cl": 3,
         "ingredient": "Campari" },
       { "cl": 3,
-        "ingredient": "Red Vermouth" },
+        "ingredient": "Vermouth",
+        "label": "Red vermouth" },
       { "special": "A splash of soda water" }
     ],
     "preparation": "Mix the ingredients directly in an old-fashioned glass filled with ice-cubes, add a splash of soda water and garnish with half orange slice." },
@@ -765,7 +770,8 @@
       { "cl": 6,
         "ingredient": "Vodka" },
       { "cl": 1,
-        "ingredient": "Dry Vermouth" },
+        "ingredient": "Vermouth",
+        "label": "Dry vermouth" },
       { "cl": 1,
         "ingredient": "Olive juice" }
     ],
@@ -886,7 +892,8 @@
       { "cl": 6,
         "ingredient": "Gin" },
       { "cl": 1,
-        "ingredient": "Dry Vermouth" }
+        "ingredient": "Vermouth",
+        "label": "Dry vermouth" }
     ],
     "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini glass. Squeeze oil from lemon peel onto the drink, or garnish with olive." },
   { "name": "Between the Sheets",
