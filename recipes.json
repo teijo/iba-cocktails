@@ -22,7 +22,8 @@
       { "cl": 2,
         "ingredient": "Lime juice" },
       { "cl": 1,
-        "ingredient": "Grenadine" }
+        "ingredient": "Syrup",
+        "label": "Grenadine" }
     ],
     "preparation": "Pour all ingredients into shaker with ice cubes, shake well, strain into chilled cocktail glass." },
   { "name": "Negroni",
@@ -114,9 +115,11 @@
       { "cl": 2,
         "ingredient": "Lemon juice" },
       { "cl": 1,
-        "ingredient": "Grenadine" },
+        "ingredient": "Syrup",
+        "label": "Grenadine" },
       { "cl": 1,
-        "ingredient": "Sugar syrup" },
+        "ingredient": "Syrup",
+        "label": "Sugar syrup" },
       { "special": "3 to 4 dashes Angostura bitters" }
     ],
     "preparation": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, “on top”. Garnish with cocktail cherry and pineapple." },
@@ -141,7 +144,8 @@
       { "cl": 3,
         "ingredient": "Lemon juice" },
       { "cl": 2,
-        "ingredient": "Sugar syrup" },
+        "ingredient": "Syrup",
+        "label": "Sugar syrup" },
       { "special": "1 raw egg white (small egg)" }
     ],
     "preparation": "Shake and strain into a chilled champagne flute. Dash some Angostura bitters on top." },
@@ -162,7 +166,8 @@
       { "cl": 2.5,
         "ingredient": "Lemon juice" },
       { "cl": 3.0,
-        "ingredient": "Gomme syrup" },
+        "ingredient": "Syrup",
+        "label": "Gomme syrup" },
       { "special": "1 dash of Cola" }
     ],
     "preparation": "Add all ingredients into highball glass filled with ice. Stir gently. Garnish with lemon spiral. Serve with straw." },
@@ -173,7 +178,8 @@
       { "cl": 4.5,
         "ingredient": "Gin" },
       { "cl": 1.5,
-        "ingredient": "Raspberry syrup" },
+        "ingredient": "Syrup",
+        "label": "Raspberry syrup" },
       { "cl": 1.5,
         "ingredient": "Lemon juice" },
       { "special": "Few drops of Egg White" }
@@ -211,7 +217,8 @@
       { "cl": 3.0,
         "ingredient": "Lemon juice" },
       { "cl": 1.5,
-        "ingredient": "Sugar syrup" }
+        "ingredient": "Syrup",
+        "label": "Sugar syrup" }
     ],
     "preparation": "Dash egg white (Optional: if used shake little harder to foam up the egg white). Pour all ingredients into cocktail shaker filled with ice. Shake well. Strain in cocktail glass. If served ‘On the rocks’, strain ingredients into old-fashioned glass filled with ice.  Garnish with half orange slice and maraschino cherry." },
   { "name": "Screwdriver",
@@ -270,7 +277,8 @@
       { "cl": 3,
         "ingredient": "Lemon juice" },
       { "cl": 1,
-        "ingredient": "Sugar syrup" },
+        "ingredient": "Syrup",
+        "label": "Sugar syrup" },
       { "cl": 8,
         "ingredient": "Soda water" }
     ],
@@ -385,7 +393,8 @@
       { "cl": 9,
         "ingredient": "Orange juice" },
       { "cl": 1.5,
-        "ingredient": "Grenadine" }
+        "ingredient": "Syrup",
+        "label": "Grenadine" }
     ],
     "preparation": "Pour tequila and orange juice directly into highball with ice cubes. Add a splash of grenadine to create chromatic effect (sunrise), do not stir. Garnish with orange slice and cherry." },
   { "name": "Daiquiri",
@@ -397,7 +406,8 @@
       { "cl": 2.5,
         "ingredient": "Lime juice" },
       { "cl": 1.5,
-        "ingredient": "Simple syrup" }
+        "ingredient": "Syrup",
+        "label": "Simple syrup" }
     ],
     "preparation": "Shake and strain into a cocktail glass." },
   { "name": "Rusty Nail",
@@ -480,7 +490,8 @@
       { "cl": 1.5,
         "ingredient": "Lemon juice" },
       { "cl": 1,
-        "ingredient": "Sugar syrup" },
+        "ingredient": "Syrup",
+        "label": "Sugar syrup" },
       { "cl": 1.5,
         "ingredient": "Blackberry liqueur" }
     ],
@@ -559,7 +570,8 @@
         "ingredient": "Triple Sec",
         "label": "Orange Curaçao" },
       { "cl": 1.5,
-        "ingredient": "Orgeat syrup" },
+        "ingredient": "Syrup",
+        "label": "Orgeat syrup" },
       { "cl": 1,
         "ingredient": "Lime juice" }
     ],
@@ -682,7 +694,8 @@
       { "cl": 1.5,
         "ingredient": "Lime juice" },
       { "cl": 1,
-        "ingredient": "Grenadine" },
+        "ingredient": "Syrup",
+        "label": "Grenadine" },
       { "special": "1 dash Angostura bitters" }
     ],
     "preparation": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry." },
@@ -717,7 +730,8 @@
       { "cl": 3,
         "ingredient": "Lemon juice" },
       { "cl": 1.5,
-        "ingredient": "Sugar syrup" },
+        "ingredient": "Syrup",
+        "label": "Sugar syrup" },
       { "cl": 6,
         "ingredient": "Soda water" }
     ],
@@ -804,7 +818,8 @@
       { "cl": 6,
         "ingredient": "Pineapple juice" },
       { "cl": 1,
-        "ingredient": "Grenadine" }
+        "ingredient": "Syrup",
+        "label": "Grenadine" }
     ],
     "preparation": "Shake and strain into a chilled large cocktail glass." },
   { "name": "Hemingway Special",
@@ -842,7 +857,8 @@
       { "cl": 1.5,
         "ingredient": "Lemon juice" },
       { "cl": 3,
-        "ingredient": "Sugar syrup" },
+        "ingredient": "Syrup",
+        "label": "Sugar syrup" },
       { "cl": 6,
         "ingredient": "Cream" },
       { "special": "1 Egg white" },
@@ -863,7 +879,8 @@
         "ingredient": "Créme liqueur",
         "label": "Créme de Cassis" },
       { "cl": 1,
-        "ingredient": "Sugar syrup" }
+        "ingredient": "Syrup",
+        "label": "Sugar syrup" }
     ],
     "preparation": "Shake the ingredients and pour into highball glass. Top with Sparkling wine. Garnish with a lemon slice and a blackberry." },
   { "name": "God Father",
