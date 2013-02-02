@@ -278,7 +278,8 @@
       { "cl": 5,
         "ingredient": "Vodka" },
       { "cl": 1,
-        "ingredient": "Kahlúa" },
+        "ingredient": "Coffee liqueur",
+        "label": "Kahlúa" },
       { "special": "Sugar syrup (according to individual preference of sweetness)" },
       { "special": "1 short strong Espresso" }
     ],
@@ -409,7 +410,8 @@
     "category": "After Dinner",
     "ingredients": [
       { "cl": 2,
-        "ingredient": "Kahlúa" },
+        "ingredient": "Coffee liqueur",
+        "label": "Kahlúa" },
       { "cl": 2,
         "ingredient": "Bailey's Irish Cream" },
       { "cl": 2,
