@@ -381,7 +381,7 @@
         "ingredient": "Créme liqueur",
         "label": "Green Créme de Menthe" },
       { "cl": 3,
-        "ingredient": "Fresh cream" }
+        "ingredient": "Cream" }
     ],
     "preparation": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass." },
   { "name": "Tequila Sunrise",
@@ -458,7 +458,7 @@
       { "cl": 2,
         "ingredient": "Orange juice" },
       { "cl": 1,
-        "ingredient": "Fresh cream" }
+        "ingredient": "Cream" }
     ],
     "preparation": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass." },
   { "name": "God Mother",
@@ -505,7 +505,7 @@
         "ingredient": "Créme liqueur",
         "label": "Brown Créme de Cacao" },
       { "cl": 3,
-        "ingredient": "Fresh cream" }
+        "ingredient": "Cream" }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass. Sprinkle with fresh ground nutmeg." },
   { "name": "Lemon Drop Martini",
@@ -648,7 +648,7 @@
       { "cl": 9,
         "ingredient": "Hot coffee" },
       { "cl": 3,
-        "ingredient": "Fresh cream" },
+        "ingredient": "Cream" },
       { "special": "1 teaspoon of brown sugar" }
     ],
     "preparation": "Warm the Irish whiskey over a burner. Pour into the glass (for hot drink) hot coffee, and add a teaspoon of sugar. Float Cream on top." },
