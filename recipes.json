@@ -514,7 +514,8 @@
     "category": "All Day Cocktail",
     "ingredients": [
       { "cl": 2.5,
-        "ingredient": "Vodka Citron" },
+        "ingredient": "Vodka",
+        "label": "Citron Vodka" },
       { "cl": 2,
         "ingredient": "Triple Sec" },
       { "cl": 1.5,
@@ -901,7 +902,8 @@
     "category": "All Day Cocktail",
     "ingredients": [
       { "cl": 4,
-        "ingredient": "Citron Vodka" },
+        "ingredient": "Vodka",
+        "label": "Citron Vodka" },
       { "cl": 1.5,
         "ingredient": "Triple Sec",
         "label": "Cointreau" },
