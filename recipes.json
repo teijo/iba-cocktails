@@ -25,7 +25,7 @@
         "ingredient": "Syrup",
         "label": "Grenadine" }
     ],
-    "preparation": "Pour all ingredients into shaker with ice cubes, shake well, strain into chilled cocktail glass." },
+    "preparation": "Shake with ice cubes. Strain into chilled cocktail glass." },
   { "name": "Negroni",
     "glass": "old-fashioned",
     "category": "Before Dinner Cocktail",
@@ -106,7 +106,7 @@
       { "special": "Dash of Angostura bitters (optional)" }
     ],
     "garnish": "Lemon twist",
-    "preparation": "Pour brandy and ginger ale directly into hi-ball glass with ice cubes. Stir gently. If required, add dashes of Angostura bitters." },
+    "preparation": "Build into highball glass with ice cubes. Stir gently. If required, add dashes of Angostura bitters." },
   { "name": "Planter's Punch",
     "glass": "highball",
     "category": "Longdrink",
@@ -128,7 +128,7 @@
       { "special": "3 to 4 dashes Angostura bitters" }
     ],
     "garnish": "Pineapple slice and a cherry",
-    "preparation": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, “on top”." },
+    "preparation": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake. Pour into large glass, filled with ice. Add Angostura bitters, “on top”." },
   { "name": "Sea Breeze",
     "glass": "highball",
     "category": "Longdrink",
@@ -192,7 +192,7 @@
         "ingredient": "Lemon juice" },
       { "special": "Few drops of Egg White" }
     ],
-    "preparation": "Pour all ingredients into cocktail shaker filled with ice. Shake well. Strain into cocktail glass." },
+    "preparation": "Shake with ice cubes. Strain into cocktail glass." },
   { "name": "Angel Face",
     "glass": "martini",
     "category": "All Day Cocktail",
@@ -204,7 +204,7 @@
       { "cl": 3,
         "ingredient": "Calvados" }
     ],
-    "preparation": "Pour all ingredients into a shaker with ice. Shake. Strain into a cocktail glass." },
+    "preparation": "Shake with ice cubes. Strain into a cocktail glass." },
   { "name": "Mimosa",
     "glass": "champagne-flute",
     "category": "Sparkling Cocktail",
@@ -230,7 +230,7 @@
         "label": "Sugar syrup" }
     ],
     "garnish": "Half an orange slice and cherry",
-    "preparation": "Dash egg white (Optional: if used shake little harder to foam up the egg white). Pour all ingredients into cocktail shaker filled with ice. Shake well. Strain into cocktail glass. If served ‘On the rocks’, strain ingredients into old-fashioned glass filled with ice." },
+    "preparation": "Dash egg white (Optional: if used shake little harder to foam up the egg white). Pour all ingredients into cocktail shaker filled with ice. Shake. Strain into cocktail glass. If served ‘On the rocks’, strain ingredients into old-fashioned glass filled with ice." },
   { "name": "Screwdriver",
     "glass": "highball",
     "category": "All Day Cocktail",
@@ -280,7 +280,7 @@
       { "cl": 1,
         "ingredient": "Egg yolk" }
     ],
-    "preparation": "Pour all ingredients into cocktail shaker filled with ice. Shake well. Strain into cocktail glass. Sprinkle with fresh ground nutmeg." },
+    "preparation": "Shake with ice cubes. Strain into cocktail glass. Sprinkle with fresh ground nutmeg." },
   { "name": "Gin Fizz",
     "glass": "highball",
     "category": "Longdrink",
@@ -322,7 +322,7 @@
       { "cl": 1.5,
         "ingredient": "Lime juice" }
     ],
-    "preparation": "Pour all ingredients into shaker with ice. Shake well and strain into cocktail glass rimmed with salt (note:Fruit Margarita - blend selected fruit with the above recipe)." },
+    "preparation": "Shake with ice cubes. Strain into cocktail glass rimmed with salt (note:Fruit Margarita - blend selected fruit with the above recipe)." },
   { "name": "French 75",
     "glass": "champagne-tulip",
     "category": "Sparkling Cocktail",
@@ -335,7 +335,7 @@
       { "cl": 6,
         "ingredient": "Champagne" }
     ],
-    "preparation": "Pour all the ingredients, except champagne, into a shaker. Shake. Strain into a champagne flute. Top up with champagne. Stir gently." },
+    "preparation": "Shake with ice cubes, except for champagne. Strain into a champagne flute. Top up with champagne. Stir gently." },
   { "name": "Yellow Bird",
     "glass": "martini",
     "category": "All Day Cocktail",
@@ -399,7 +399,7 @@
       { "cl": 3,
         "ingredient": "Cream" }
     ],
-    "preparation": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass." },
+    "preparation": "Shake with ice cubes. Strain into chilled cocktail glass." },
   { "name": "Tequila Sunrise",
     "glass": "highball",
     "category": "Longdrink",
@@ -478,7 +478,7 @@
       { "cl": 1,
         "ingredient": "Cream" }
     ],
-    "preparation": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass." },
+    "preparation": "Shake with ice cubes. Strain into chilled cocktail glass." },
   { "name": "God Mother",
     "glass": "old-fashioned",
     "ingredients": [
@@ -663,7 +663,7 @@
       { "cl": 2,
         "ingredient": "Lemon juice" }
     ],
-    "preparation": "Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass." },
+    "preparation": "Shake with ice cubes. Strain into cocktail glass." },
   { "name": "Irish Coffee",
     "glass": "hot-drink",
     "category": "Hot Drink",
@@ -727,7 +727,7 @@
       { "special": "1 dash Angostura bitters" }
     ],
     "garnish": "Pineapple slice and a cherry",
-    "preparation": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass." },
+    "preparation": "Shake with ice cubes. Strain into highball glass." },
   { "name": "French Connection",
     "glass": "old-fashioned",
     "ingredients": [
@@ -813,7 +813,7 @@
       { "cl": 1.5,
         "ingredient": "Orange juice" }
     ],
-    "preparation": "Pour all ingredients into cocktail shaker filled with ice. Shake and strain into chilled cocktail glass." },
+    "preparation": "Shake with ice cubes. Strain into chilled cocktail glass." },
   { "name": "Dirty Martini",
     "glass": "martini",
     "category": "Before Dinner Cocktail",
@@ -871,7 +871,7 @@
       { "cl": 1.5,
         "ingredient": "Lime juice" }
     ],
-    "preparation": "Pour all ingredients into a shaker with ice. Shake. Strain into a double cocktail glass." },
+    "preparation": "Shake with ice cubes. Strain into a double cocktail glass." },
   { "name": "Dark 'n' Stormy",
     "glass": "highball",
     "category": "Longdrink",
@@ -947,7 +947,7 @@
         "ingredient": "Cranberry juice" }
     ],
     "garnish": "Lime slice",
-    "preparation": "Shake all ingredients in cocktail shaker filled with ice. Strain into a large cocktail glass." },
+    "preparation": "Shake with ice cubes. Strain into a large cocktail glass." },
   { "name": "Dry Martini",
     "glass": "martini",
     "category": "Before Dinner Cocktail",
@@ -972,7 +972,7 @@
       { "cl": 2,
         "ingredient": "Lemon juice" }
     ],
-    "preparation": "Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass." },
+    "preparation": "Shake with ice cubes. Strain into chilled cocktail glass." },
   { "name": "Casino",
     "glass": "martini",
     "category": "All Day Cocktail",
@@ -989,7 +989,7 @@
         "ingredient": "Lemon juice" }
     ],
     "garnish": "Lemon twist and a cherry",
-    "preparation": "Pour all ingredients into shaker with ice cubes, shake well, strain into chilled cocktail glass." },
+    "preparation": "Shake with ice cubes. Strain into chilled cocktail glass." },
   { "name": "Caipirinha",
     "glass": "old-fashioned",
     "category": "All Day Cocktail",
@@ -1019,7 +1019,7 @@
       { "special": "Salt" }
     ],
     "garnish": "Lime wedge and a green or red chili",
-    "preparation": "Pour all ingredients into a shaker filled with ice. Shake well, to relaese the flavour of the chili. Strain into a highball glass, filled with ice." },
+    "preparation": "Shake with ice cubes. Strain into a highball glass, filled with ice." },
   { "name": "Kamikaze",
     "glass": "martini",
     "category": "All Day Cocktail",
@@ -1043,7 +1043,7 @@
       { "cl": 2,
         "ingredient": "Lemon juice" }
     ],
-    "preparation": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass." },
+    "preparation": "Shake with ice cubes. Strain into large cocktail glass." },
   { "name": "Harvey Wallbanger",
     "glass": "highball",
     "category": "All Day Cocktail",
@@ -1056,5 +1056,5 @@
         "ingredient": "Orange juice" }
     ],
     "garnish": "Orance slice and a cherry",
-    "preparation": "Pour vodka and orange juice into a highball glass filled with ice. Stir gently and float Galliano on top." }
+    "preparation": "Build vodka and orange juice into a highball glass filled with ice. Stir gently and float Galliano on top." }
 ]
