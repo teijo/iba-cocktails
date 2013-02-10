@@ -268,7 +268,7 @@
       { "special": "1 dash Angostura Bitters" }
     ],
     "garnish": "Cherry",
-    "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass." },
+    "preparation": "Stir in mixing glass with ice cubes. Strain into chilled cocktail glass." },
   { "name": "Porto Flip",
     "glass": "martini",
     "category": "After Dinner Cocktail",
@@ -464,7 +464,7 @@
         "ingredient": "Créme liqueur",
         "label": "White Créme de Menthe" }
     ],
-    "preparation": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass." },
+    "preparation": "Stir in mixing glass with ice cubes. Strain into a cocktail glass." },
   { "name": "Golden Dream",
     "glass": "martini",
     "category": "After Dinner Cocktail",
@@ -553,7 +553,7 @@
       { "cl": 1.5,
         "ingredient": "Pineapple juice" }
     ],
-    "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled cocktail glass. Squeeze oil from lemon peel onto the drink." },
+    "preparation": "Stir in mixing glass with ice cubes. Strain into chilled cocktail glass. Squeeze oil from lemon peel onto the drink." },
   { "name": "Black Russian",
     "glass": "old-fashioned",
     "category": "After Dinner Cocktail",
@@ -651,7 +651,7 @@
       { "special": "2 Fresh mint leafs" }
     ],
     "garnish": "Mint leaves",
-    "preparation": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass." },
+    "preparation": "Stir in mixing glass with ice cubes. Strain into a cocktail glass." },
   { "name": "Sidecar",
     "glass": "martini",
     "category": "All Day Cocktail",
@@ -827,7 +827,7 @@
         "ingredient": "Olive juice" }
     ],
     "garnish": "Green olive",
-    "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini glass." },
+    "preparation": "Stir in mixing glass with ice cubes. Strain into chilled martini glass." },
   { "name": "Champagne Cocktail",
     "glass": "champagne-flute",
     "category": "Sparkling Cocktail",
@@ -958,7 +958,7 @@
         "ingredient": "Vermouth",
         "label": "Dry vermouth" }
     ],
-    "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini glass. Squeeze oil from lemon peel onto the drink, or garnish with olive." },
+    "preparation": "Stir in mixing glass with ice cubes. Strain into chilled martini glass. Squeeze oil from lemon peel onto the drink, or garnish with olive." },
   { "name": "Between the Sheets",
     "glass": "martini",
     "category": "All Day Cocktail",
