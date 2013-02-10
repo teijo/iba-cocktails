@@ -78,7 +78,7 @@
       { "special": "1/4 bar spoon Absinthe" },
       { "special": "3 dashes Orange Bitters" }
     ],
-    "garnish": "Cherry and lemon zest twist",
+    "garnish": "Cherry and lemon twist",
     "preparation": "Stir all ingredients with ice and strain into cocktail glass." },
   { "name": "Mojito",
     "glass": "collins",
@@ -105,7 +105,7 @@
         "ingredient": "Ginger Ale" },
       { "special": "Dash of Angostura bitters (optional)" }
     ],
-    "garnish": "Lemon zest twist",
+    "garnish": "Lemon twist",
     "preparation": "Pour brandy and ginger ale directly into hi-ball glass with ice cubes. Stir gently. If required, add dashes of Angostura bitters." },
   { "name": "Planter's Punch",
     "glass": "highball",
@@ -177,7 +177,7 @@
         "label": "Gomme syrup" },
       { "special": "1 dash of Cola" }
     ],
-    "garnish": "Lemon zest twist",
+    "garnish": "Lemon twist",
     "preparation": "Add all ingredients into highball glass filled with ice. Stir gently. Serve with straw." },
   { "name": "Clover Club",
     "glass": "martini",
