@@ -8,10 +8,10 @@
       { "cl": 1.5,
         "ingredient": "Vodka" },
       { "cl": 0.75,
-        "ingredient": "Lillet Blonde" },
-      { "special": "Lemon twist (garnish)" }
+        "ingredient": "Lillet Blonde" }
     ],
-    "preparation": "Shake and strain into a chilled cocktail glass. Add the garnish." },
+    "garnish": "Lemon twist",
+    "preparation": "Shake and strain into a chilled cocktail glass." },
   { "name": "Bacardi",
     "glass": "martini",
     "category": "Before Dinner Cocktail",
@@ -38,7 +38,8 @@
         "ingredient": "Vermouth",
         "label": "Sweet red vermouth" }
     ],
-    "preparation": "Pour all ingredients directly into old-fashioned glass filled with ice. Stir gently. Garnish with half orange slice." },
+    "garnish": "Half an orange slice",
+    "preparation": "Pour all ingredients directly into old-fashioned glass filled with ice. Stir gently." },
   { "name": "Rose",
     "glass": "martini",
     "ingredients": [
@@ -61,7 +62,8 @@
       { "special": "1 sugar cube" },
       { "special": "Few dashes plain water" }
     ],
-    "preparation": "Place sugar cube in old-fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolve. Fill the glass with ice cubes and add whisky. Garnish with orange slice and a cocktail cherry." },
+    "garnish": "Orange slice and cherry",
+    "preparation": "Place sugar cube in old-fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolve. Fill the glass with ice cubes and add whisky." },
   { "name": "Tuxedo",
     "glass": "martini",
     "category": "All Day Cocktail",
@@ -76,7 +78,8 @@
       { "special": "1/4 bar spoon Absinthe" },
       { "special": "3 dashes Orange Bitters" }
     ],
-    "preparation": "Stir all ingredients with ice and strain into cocktail glass. Garnish with a cocktail cherry and a lemon zest twist." },
+    "garnish": "Cherry and lemon zest twist",
+    "preparation": "Stir all ingredients with ice and strain into cocktail glass." },
   { "name": "Mojito",
     "glass": "collins",
     "category": "Longdrink",
@@ -90,7 +93,8 @@
       { "special": "2 teaspoons white sugar" },
       { "special": "Soda water" }
     ],
-    "preparation": "Muddle mint springs with sugar and lime juice. Add splash of soda water and fill glass with cracked ice. Pour rum and top with soda water. Garnish with spring of mint leaves and lemon slice. Serve with straw." },
+    "garnish": "Mint leaves and lemon slice",
+    "preparation": "Muddle mint springs with sugar and lime juice. Add splash of soda water and fill glass with cracked ice. Pour rum and top with soda water. Serve with straw." },
   { "name": "Horse's Neck",
     "glass": "highball",
     "category": "Longdrink",
@@ -101,7 +105,8 @@
         "ingredient": "Ginger Ale" },
       { "special": "Dash of Angostura bitters (optional)" }
     ],
-    "preparation": "Pour brandy and ginger ale directly into hi-ball glass with ice cubes. Stir gently. Garnish with rind of one lemon spiral. If required, add dashes of Angostura bitters." },
+    "garnish": "Lemon zest twist",
+    "preparation": "Pour brandy and ginger ale directly into hi-ball glass with ice cubes. Stir gently. If required, add dashes of Angostura bitters." },
   { "name": "Planter's Punch",
     "glass": "highball",
     "category": "Longdrink",
@@ -122,7 +127,8 @@
         "label": "Sugar syrup" },
       { "special": "3 to 4 dashes Angostura bitters" }
     ],
-    "preparation": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, “on top”. Garnish with cocktail cherry and pineapple." },
+    "garnish": "Pineapple slice and a cherry",
+    "preparation": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, “on top”." },
   { "name": "Sea Breeze",
     "glass": "highball",
     "category": "Longdrink",
@@ -134,7 +140,8 @@
       { "cl": 3,
         "ingredient": "Grapefruit juice" }
     ],
-    "preparation": "Build all ingredients in a rock glass filled with ice. Garnish with lime wedge." },
+    "garnish": "Lime wedge",
+    "preparation": "Build all ingredients in a rock glass filled with ice." },
   { "name": "Pisco Sour",
     "glass": "old-fashioned",
     "category": "All Day Cocktail",
@@ -170,7 +177,8 @@
         "label": "Gomme syrup" },
       { "special": "1 dash of Cola" }
     ],
-    "preparation": "Add all ingredients into highball glass filled with ice. Stir gently. Garnish with lemon spiral. Serve with straw." },
+    "garnish": "Lemon zest twist",
+    "preparation": "Add all ingredients into highball glass filled with ice. Stir gently. Serve with straw." },
   { "name": "Clover Club",
     "glass": "martini",
     "category": "All Day Cocktail",
@@ -206,7 +214,8 @@
       { "cl": 7.5,
         "ingredient": "Orange juice" }
     ],
-    "preparation": "Pour orange juice into flute and gently pour Champagne. Stir gently. Garnish with orange twist (optional). Note: a Buck’s Fizz and a Mimosa are the same drink." },
+    "garnish": "Optional orange twist",
+    "preparation": "Pour orange juice into flute and gently pour Champagne. Stir gently. Note: a Buck’s Fizz and a Mimosa are the same drink." },
   { "name": "Whiskey Sour",
     "glass": "old-fashioned",
     "category": "Before Dinner Cocktail",
@@ -220,7 +229,8 @@
         "ingredient": "Syrup",
         "label": "Sugar syrup" }
     ],
-    "preparation": "Dash egg white (Optional: if used shake little harder to foam up the egg white). Pour all ingredients into cocktail shaker filled with ice. Shake well. Strain in cocktail glass. If served ‘On the rocks’, strain ingredients into old-fashioned glass filled with ice.  Garnish with half orange slice and maraschino cherry." },
+    "garnish": "Half an orange slice and cherry",
+    "preparation": "Dash egg white (Optional: if used shake little harder to foam up the egg white). Pour all ingredients into cocktail shaker filled with ice. Shake well. Strain in cocktail glass. If served ‘On the rocks’, strain ingredients into old-fashioned glass filled with ice." },
   { "name": "Screwdriver",
     "glass": "highball",
     "category": "All Day Cocktail",
@@ -230,7 +240,8 @@
       { "cl": 10,
         "ingredient": "Orange juice" }
     ],
-    "preparation": "Pour all ingredients into a highball glass filled with ice. Stir gently.Garnish with a orange slice." },
+    "garnish": "Orange slice",
+    "preparation": "Pour all ingredients into a highball glass filled with ice. Stir gently." },
   { "name": "Cuba Libre",
     "glass": "highball",
     "category": "Longdrink",
@@ -242,7 +253,8 @@
       { "cl": 1,
         "ingredient": "Lime juice" }
     ],
-    "preparation": "Build all ingredients in a highball glass filled with ice. Garnish with lime wedge." },
+    "garnish": "Lime wedge",
+    "preparation": "Build all ingredients in a highball glass filled with ice." },
   { "name": "Manhattan",
     "glass": "martini",
     "category": "Before Dinner cocktail",
@@ -255,7 +267,8 @@
         "label": "Red vermouth" },
       { "special": "1 dash Angostura Bitters" }
     ],
-    "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass. Garnish with cocktail cherry." },
+    "garnish": "Cherry",
+    "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass." },
   { "name": "Porto Flip",
     "glass": "martini",
     "category": "After Dinner Cocktail",
@@ -282,7 +295,8 @@
       { "cl": 8,
         "ingredient": "Soda water" }
     ],
-    "preparation": "Shake all ingredients with ice cubes, except soda water. Pour into tumbler. Top with soda water. Garnish with lemon slice." },
+    "garnish": "Lemon slice",
+    "preparation": "Shake all ingredients with ice cubes, except soda water. Pour into tumbler. Top with soda water." },
   { "name": "Espresso Martini",
     "glass": "martini",
     "category": "After Dinner Cocktail",
@@ -347,7 +361,8 @@
       { "cl": 3,
         "ingredient": "Coconut milk" }
     ],
-    "preparation": "Blend all the ingredients with ice in a electric blender, pour into a large goblet or Hurricane glass and serve with straws. Garnish with a slice of pineapple with a cocktail cherry." },
+    "garnish": "Pineapple slice and a cherry",
+    "preparation": "Blend all the ingredients with ice in a electric blender, pour into a large goblet or Hurricane glass and serve with straws." },
   { "name": "Aviation",
     "glass": "martini",
     "category": "All Day Cocktail",
@@ -397,7 +412,8 @@
         "ingredient": "Syrup",
         "label": "Grenadine" }
     ],
-    "preparation": "Pour tequila and orange juice directly into highball with ice cubes. Add a splash of grenadine to create chromatic effect (sunrise), do not stir. Garnish with orange slice and cherry." },
+    "garnish": "Orange slice and a cherry",
+    "preparation": "Pour tequila and orange juice directly into highball with ice cubes. Add a splash of grenadine to create chromatic effect (sunrise), do not stir." },
   { "name": "Daiquiri",
     "glass": "martini",
     "category": "Before Dinner Cocktail",
@@ -421,7 +437,8 @@
       { "cl": 2.5,
         "ingredient": "Drambuie" }
     ],
-    "preparation": "Pour all ingredients directly into old-fashioned glass filled with ice. Stir gently. Garnish with lemon twist." },
+    "garnish": "Lemon twist",
+    "preparation": "Pour all ingredients directly into old-fashioned glass filled with ice. Stir gently." },
   { "name": "B52",
     "glass": "shot",
     "category": "After Dinner",
@@ -481,7 +498,8 @@
         "ingredient": "Aperol" },
       { "special": "Splash of Soda water" }
     ],
-    "preparation": "Build into an old-fashioned glass filled with ice. Top with a splash of soda water. Garnish with half orange slice." },
+    "garnish": "Half an orange slice",
+    "preparation": "Build into an old-fashioned glass filled with ice. Top with a splash of soda water." },
   { "name": "Bramble",
     "glass": "old-fashioned",
     "category": "All Day Cocktail",
@@ -496,7 +514,8 @@
       { "cl": 1.5,
         "ingredient": "Blackberry liqueur" }
     ],
-    "preparation": "Build over crushed ice, in a rock glass. Stir, then pour the blackberry liqueur over the top of the drink in a circular fashion. Garnish with a lemon slice, and two blackberries." },
+    "garnish": "Lemon slice and two blackberries",
+    "preparation": "Build over crushed ice, in a rock glass. Stir, then pour the blackberry liqueur over the top of the drink in a circular fashion." },
   { "name": "Alexander",
     "glass": "martini",
     "ingredients": [
@@ -521,7 +540,8 @@
       { "cl": 1.5,
         "ingredient": "Lemon juice" }
     ],
-    "preparation": "Shake and strain into a chilled cocktail glass rimmed with sugar, garnish with a slice of lemon." },
+    "garnish": "Lemon slice",
+    "preparation": "Shake and strain into a chilled cocktail glass rimmed with sugar." },
   { "name": "French Martini",
     "glass": "martini",
     "category": "Before Dinner Cocktail",
@@ -559,7 +579,8 @@
       { "special": "Celery salt" },
       { "special": "Pepper" }
     ],
-    "preparation": "Stir gently, pour all ingredients into highball glass. Garnish with celery and lemon wedge (optional)." },
+    "garnish": "Celery and optionally lemon wedge",
+    "preparation": "Stir gently, pour all ingredients into highball glass." },
   { "name": "Mai-tai",
     "glass": "highball",
     "category": "Longdrink",
@@ -577,7 +598,8 @@
       { "cl": 1,
         "ingredient": "Lime juice" }
     ],
-    "preparation": "Shake and strain into highball glass. Garnish with pineapple spear, mint leaves and lime peel. Serve with straw." },
+    "garnish": "Pineapple spear, mint leaves and lime wedge",
+    "preparation": "Shake and strain into highball glass. Serve with straw." },
   { "name": "Barracuda",
     "glass": "margarita",
     "category": "Sparkling Cocktail",
@@ -605,7 +627,8 @@
       { "cl": 4,
         "ingredient": "Orange juice" }
     ],
-    "preparation": "Build all ingredients in a highball glass filled with ice. Garnish with orange slice." },
+    "garnish": "Orange slice",
+    "preparation": "Build all ingredients in a highball glass filled with ice." },
   { "name": "Monkey Gland",
     "glass": "martini",
     "category": "All Day Cocktail",
@@ -627,7 +650,8 @@
       { "special": "2 Drops Peach Bitters" },
       { "special": "2 Fresh mint leafs" }
     ],
-    "preparation": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a fresh mint leaves in the drink." },
+    "garnish": "Mint leaves",
+    "preparation": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass." },
   { "name": "Sidecar",
     "glass": "martini",
     "category": "All Day Cocktail",
@@ -665,7 +689,8 @@
       { "special": "1 sugar cube" },
       { "special": "2 dashes Peychaud’s bitters" }
     ],
-    "preparation": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the Lemon peel for garnish. Note: The original recipe changed after the American Civil War, rye whiskey substituted cognac as it became hard to obtain." },
+    "garnish": "Lemon twist",
+    "preparation": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Note: The original recipe changed after the American Civil War, rye whiskey substituted cognac as it became hard to obtain." },
   { "name": "Americano",
     "glass": "old-fashioned",
     "category": "Before Dinner Cocktail",
@@ -677,7 +702,8 @@
         "label": "Red vermouth" },
       { "special": "A splash of soda water" }
     ],
-    "preparation": "Mix the ingredients directly in an old-fashioned glass filled with ice-cubes, add a splash of soda water and garnish with half orange slice." },
+    "garnish": "Half an orange slice",
+    "preparation": "Mix the ingredients directly in an old-fashioned glass filled with ice-cubes, add a splash of soda water." },
   { "name": "Singapore Sling",
     "glass": "highball",
     "category": "Longdrink",
@@ -700,7 +726,8 @@
         "label": "Grenadine" },
       { "special": "1 dash Angostura bitters" }
     ],
-    "preparation": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry." },
+    "garnish": "Pineapple slice and a cherry",
+    "preparation": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass." },
   { "name": "French Connection",
     "glass": "old-fashioned",
     "ingredients": [
@@ -722,7 +749,8 @@
         "ingredient": "Lime juice" },
       { "special": "1 slice lime in a highball glass" }
     ],
-    "preparation": "Combine the vodka and ginger beer. Add lime juice. Garnish with a lime slice." },
+    "garnish": "Lime slice",
+    "preparation": "Combine the vodka and ginger beer. Add lime juice." },
   { "name": "John Collins",
     "glass": "highball",
     "category": "Longdrink",
@@ -737,7 +765,8 @@
       { "cl": 6,
         "ingredient": "Soda water" }
     ],
-    "preparation": "Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish with lemon slice and maraschino cherry. Add a dash of Angostura bitters. (Note: Use Old Tom Gin for Tom Collins)" },
+    "garnish": "Lemon slice and a cherry",
+    "preparation": "Pour all ingredients directly into highball glass filled with ice. Stir gently. Add a dash of Angostura bitters. (Note: Use Old Tom Gin for Tom Collins)" },
   { "name": "Kir",
     "glass": "white-wine",
     "category": "Before Dinner Cocktail",
@@ -760,7 +789,8 @@
       { "special": "1 teaspoon powdered sugar" },
       { "special": "2 teaspoons water" }
     ],
-    "preparation": "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is frost. Garnish with a mint spring." },
+    "garnish": "Mint spring",
+    "preparation": "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is frost." },
   { "name": "Tommy's Margarita",
     "glass": "martini",
     "category": "All Day Cocktail",
@@ -796,7 +826,8 @@
       { "cl": 1,
         "ingredient": "Olive juice" }
     ],
-    "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini glass. Garnish with green olive." },
+    "garnish": "Green olive",
+    "preparation": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini glass." },
   { "name": "Champagne Cocktail",
     "glass": "champagne-flute",
     "category": "Sparkling Cocktail",
@@ -808,7 +839,8 @@
       { "special": "2 dashes Angostura Bitters" },
       { "special": "1 sugar cube" }
     ],
-    "preparation": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by pouring gently chilled champagne. Garnish with orange slice and maraschino cherry." },
+    "garnish": "Orange slice and a cherry",
+    "preparation": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by pouring gently chilled champagne." },
   { "name": "Mary Pickford",
     "glass": "martini",
     "category": "All Day Cocktail",
@@ -849,7 +881,8 @@
       { "cl": 10,
         "ingredient": "Ginger beer" }
     ],
-    "preparation": "In a highball glass filled with ice add 6cl Dark Rum and top with ginger beer. Garnish with lime wedge." },
+    "garnish": "Lime wedge",
+    "preparation": "In a highball glass filled with ice add 6cl Dark Rum and top with ginger beer." },
   { "name": "Ramos Fizz",
     "glass": "highball",
     "category": "Longdrink",
@@ -886,7 +919,8 @@
         "ingredient": "Syrup",
         "label": "Sugar syrup" }
     ],
-    "preparation": "Shake the ingredients and pour into highball glass. Top with Sparkling wine. Garnish with a lemon slice and a blackberry." },
+    "garnish": "Lemon slice and a blackberry",
+    "preparation": "Shake the ingredients and pour into highball glass. Top with Sparkling wine." },
   { "name": "God Father",
     "glass": "old-fashioned",
     "ingredients": [
@@ -912,7 +946,8 @@
       { "cl": 3,
         "ingredient": "Cranberry juice" }
     ],
-    "preparation": "Shake all ingredients in cocktail shaker filled with ice. Strain into a large cocktail glass Garnish with lime slice." },
+    "garnish": "Lime slice",
+    "preparation": "Shake all ingredients in cocktail shaker filled with ice. Strain into a large cocktail glass." },
   { "name": "Dry Martini",
     "glass": "martini",
     "category": "Before Dinner Cocktail",
@@ -953,7 +988,8 @@
       { "cl": 1,
         "ingredient": "Lemon juice" }
     ],
-    "preparation": "Pour all ingredients into shaker with ice cubes, shake well, strain into chilled cocktail glass and garnish with a lemon twist and a maraschino cherry." },
+    "garnish": "Lemon twist and a cherry",
+    "preparation": "Pour all ingredients into shaker with ice cubes, shake well, strain into chilled cocktail glass." },
   { "name": "Caipirinha",
     "glass": "old-fashioned",
     "category": "All Day Cocktail",
@@ -982,7 +1018,8 @@
       { "special": "Few drops Worchestershire sauce" },
       { "special": "Salt" }
     ],
-    "preparation": "Pour all ingredients into a shaker filled with ice. Shake well, to relaese the flavour of the chili. Strain into a highball glass, filled with ice. Garnish with a wedge of lime and a chili (green or red)." },
+    "garnish": "Lime wedge and a green or red chili",
+    "preparation": "Pour all ingredients into a shaker filled with ice. Shake well, to relaese the flavour of the chili. Strain into a highball glass, filled with ice." },
   { "name": "Kamikaze",
     "glass": "martini",
     "category": "All Day Cocktail",
@@ -1018,5 +1055,6 @@
       { "cl": 9,
         "ingredient": "Orange juice" }
     ],
-    "preparation": "Pour vodka and orange juice into a highball glass filled with ice. Stir gently and float Galliano on top. Garnish with orange slices and cherry." }
+    "garnish": "Orance slice and a cherry",
+    "preparation": "Pour vodka and orange juice into a highball glass filled with ice. Stir gently and float Galliano on top." }
 ]
