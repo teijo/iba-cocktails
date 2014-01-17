@@ -58,7 +58,7 @@
       { "cl": 4.5,
         "ingredient": "Whiskey",
         "label": "Bourbon or rye whiskey" },
-      { "special": "2 Dashes Angostura Bitters" },
+      { "special": "2 dashes Angostura Bitters" },
       { "special": "1 sugar cube" },
       { "special": "Few dashes plain water" }
     ],
@@ -999,7 +999,7 @@
       { "special": "half fresh lime cut into 4 wedges" },
       { "special": "2 teaspoon sugar" }
     ],
-    "preparation": "Place lime and suger in old fashion glass and muddle. Fill glass with ice and Cachaca (note:Caipiroska- use Vodka instead of Cachaca)." },
+    "preparation": "Place lime and sugar in old fashion glass and muddle. Fill glass with ice and Cachaca (note:Caipiroska- use Vodka instead of Cachaca)." },
   { "name": "Vampiro",
     "glass": "highball",
     "ingredients": [
