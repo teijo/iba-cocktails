@@ -637,7 +637,7 @@
         "ingredient": "Gin" },
       { "cl": 3,
         "ingredient": "Orange juice" },
-      { "special": "2 drops Absinth" },
+      { "special": "2 drops Absinthe" },
       { "special": "2 drops Grenadine" }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass." },
@@ -647,8 +647,8 @@
     "ingredients": [
       { "cl": 6,
         "ingredient": "Gin" },
-      { "special": "2 Drops Peach Bitters" },
-      { "special": "2 Fresh mint leafs" }
+      { "special": "2 drops Peach Bitters" },
+      { "special": "2 Fresh mint leaves" }
     ],
     "garnish": "Mint leaves",
     "preparation": "Stir in mixing glass with ice cubes. Strain into a cocktail glass." },
