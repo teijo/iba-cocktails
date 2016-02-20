@@ -1010,7 +1010,7 @@
     "ingredients": [
       { "unit": "cl",
         "amount": 9,
-        "ingredient": "Chilled Champagne" },
+        "ingredient": "Champagne" },
       { "unit": "cl",
         "amount": 1,
         "ingredient": "Cognac" },
