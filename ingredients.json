@@ -1,0 +1,158 @@
+{
+  "Absinthe": {
+    "abv": 40
+  },
+  "Aperol": {
+    "abv": 11
+  },
+  "Apricot brandy": {
+    "abv": 40
+  },
+  "Blackberry liqueur": {
+    "abv": 40
+  },
+  "Cachaca": {
+    "abv": 40
+  },
+  "Calvados": {
+    "abv": 40
+  },
+  "Campari": {
+    "abv": 25
+  },
+  "Champagne": {
+    "abv": 12
+  },
+  "Cherry liqueur": {
+    "abv": 30
+  },
+  "Coconut milk": {
+    "abv": 0
+  },
+  "Coffee liqueur": {
+    "abv": 20
+  },
+  "Cognac": {
+    "abv": 40
+  },
+  "Cola": {
+    "abv": 0
+  },
+  "Cranberry juice": {
+    "abv": 0
+  },
+  "Cream": {
+    "abv": 0
+  },
+  "Cream liqueur": {
+    "abv": 20
+  },
+  "Créme liqueur": {
+    "abv": 20
+  },
+  "Dark rum": {
+    "abv": 40
+  },
+  "DiSaronno": {
+    "abv": 28
+  },
+  "DOM Bénédictine": {
+    "abv": 40
+  },
+  "Drambuie": {
+    "abv": 40
+  },
+  "Dry White Wine": {
+    "abv": 12
+  },
+  "Egg yolk": {
+    "abv": 12
+  },
+  "Galliano": {
+    "abv": 30
+  },
+  "Gin": {
+    "abv": 40
+  },
+  "Ginger Ale": {
+    "abv": 0
+  },
+  "Ginger beer": {
+    "abv": 5
+  },
+  "Grapefruit juice": {
+    "abv": 0
+  },
+  "Hot coffee": {
+    "abv": 0
+  },
+  "Kirsch": {
+    "abv": 40
+  },
+  "Lemon juice": {
+    "abv": 0
+  },
+  "Lillet Blonde": {
+    "abv": 15
+  },
+  "Lime juice": {
+    "abv": 0
+  },
+  "Olive juice": {
+    "abv": 0
+  },
+  "Orange Bitters": {
+    "abv": 40
+  },
+  "Orange juice": {
+    "abv": 0
+  },
+  "Peach puree": {
+    "abv": 0
+  },
+  "Peach schnapps": {
+    "abv": 40
+  },
+  "Pineapple juice": {
+    "abv": 0
+  },
+  "Pisco": {
+    "abv": 40
+  },
+  "Prosecco": {
+    "abv": 12
+  },
+  "Raspberry liqueur": {
+    "abv": 20
+  },
+  "Red Port": {
+    "abv": 20
+  },
+  "Soda water": {
+    "abv": 0
+  },
+  "Syrup": {
+    "abv": 0
+  },
+  "Tequila": {
+    "abv": 40
+  },
+  "Tomato juice": {
+    "abv": 0
+  },
+  "Triple Sec": {
+    "abv": 40
+  },
+  "Vermouth": {
+    "abv": 17
+  },
+  "Vodka": {
+    "abv": 40
+  },
+  "Whiskey": {
+    "abv": 40
+  },
+  "White rum": {
+    "abv": 40
+  }
+}
