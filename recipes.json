@@ -310,7 +310,7 @@
     "preparation": "Build all ingredients in a highball glass filled with ice." },
   { "name": "Manhattan",
     "glass": "martini",
-    "category": "Before Dinner cocktail",
+    "category": "Before Dinner Cocktail",
     "ingredients": [
       { "unit": "cl",
         "amount": 5,
@@ -534,7 +534,7 @@
     "preparation": "Build into old-fashioned glass filled with ice. Stir gently." },
   { "name": "B52",
     "glass": "shot",
-    "category": "After Dinner",
+    "category": "After Dinner Cocktail",
     "ingredients": [
       { "unit": "cl",
         "amount": 2,
