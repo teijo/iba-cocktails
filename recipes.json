@@ -110,7 +110,7 @@
       { "special": "Soda water" }
     ],
     "garnish": "Mint leaves and lemon slice",
-    "preparation": "Muddle mint springs with sugar and lime juice. Add splash of soda water and fill glass with cracked ice. Pour rum and top with soda water. Serve with straw." },
+    "preparation": "Muddle mint sprigs with sugar and lime juice. Add splash of soda water and fill glass with cracked ice. Pour rum and top with soda water. Serve with straw." },
   { "name": "Horse's Neck",
     "glass": "highball",
     "category": "Longdrink",
@@ -957,7 +957,7 @@
       { "special": "1 teaspoon powdered sugar" },
       { "special": "2 teaspoons water" }
     ],
-    "garnish": "Mint spring",
+    "garnish": "Mint sprig",
     "preparation": "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is frost." },
   { "name": "Tommy's Margarita",
     "glass": "martini",
